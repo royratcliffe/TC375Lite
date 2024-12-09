@@ -1,2 +1,4 @@
+.metadata/
+.settings/org.eclipse.ltk.core.refactoring.prefs
 TriCore Debug (TASKING)/
 TriCore Release (TASKING)/
