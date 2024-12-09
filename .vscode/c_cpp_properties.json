@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Infineon AURIX",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "c:/Infineon/AURIX-Studio-1.10.6/tools/Compilers/tricore-gcc11/bin/tricore-elf-gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17"
+        }
+    ],
+    "version": 4
+}
