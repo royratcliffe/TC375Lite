@@ -1,0 +1,3 @@
+[submodule "Libraries/Canny_Ifx"]
+	path = Libraries/Canny_Ifx
+	url = https://github.com/royratcliffe/Canny_Ifx.git
