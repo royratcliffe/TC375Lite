@@ -5,7 +5,9 @@
             "includePath": [
                 "${workspaceFolder}/**"
             ],
-            "defines": [],
+            "defines": [
+                "__TASKING__"
+            ],
             "compilerPath": "c:/Infineon/AURIX-Studio-1.10.6/tools/Compilers/tricore-gcc11/bin/tricore-elf-gcc.exe",
             "cStandard": "c17",
             "cppStandard": "gnu++17"
