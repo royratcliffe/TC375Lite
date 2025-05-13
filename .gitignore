@@ -2,3 +2,5 @@
 .settings/org.eclipse.ltk.core.refactoring.prefs
 TriCore Debug (TASKING)/
 TriCore Release (TASKING)/
+TriCore Debug (GCC)/
+TriCore Release (GCC)/
